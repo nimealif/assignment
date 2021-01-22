@@ -1,6 +1,12 @@
  
- 
+ //https://github.com/nimealif/assignment
+
+
+
+
+
  //assignment 1. kilometerToMeter
+
  
  function kilometerToMeter(kilo){
    
@@ -10,12 +16,23 @@
  };
 
 
+
+
+
+
+
+
   //assignment 2. budgetCalculator
 
   function budgetCalculator(watch, phone, laptop){
     var result = watch*50 + phone*100 + laptop*500;
     return result;
 };
+
+
+
+
+
 
 
   //assignment 3. hotelCost
@@ -44,9 +61,15 @@
 
 
 
-      //assignment 4. megaFriend
 
-      var friends = ["alif", "nayem", "roktim", "riyajul", "rifat", "josim"];
+
+
+
+
+
+//assignment 4. megaFriend
+
+var friends = ["alif", "nayem", "roktim", "riyajul", "rifat", "josim"];
 
 function megaFriend(arr) {
   var long1 = arr[0];
